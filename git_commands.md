@@ -1,5 +1,7 @@
 # **<p style="text-align: center;">Инструкция по командам Git.</p>**
 
+<image src="./images/git.png" alt="git">  
+
 Git (Global Information Tracker) – *это распределенная система управления версиями.*
 
 <p style="text-indent: 25px;"></p>
